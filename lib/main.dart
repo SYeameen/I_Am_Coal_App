@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main(){
-  runApp(app)
+void main() {
+  runApp(
+    MaterialApp(
+      home: Scaffold(),
+    ),
+  );
 }
